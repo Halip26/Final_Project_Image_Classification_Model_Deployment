@@ -36,12 +36,6 @@ Replace `<image_path>` with the path to the image you want to classify.
 
 Contributions are welcome! If you find any issues or have suggestions, feel free to open a pull request or create an issue.
 
-1. **Contributing**: If you're open to contributions, mention how others can contribute to your project. For example:
-
-    ```markdown
-    
-    ```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
